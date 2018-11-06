@@ -1,1 +1,1 @@
-select a from b;
+select a from a;
