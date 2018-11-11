@@ -1,1 +1,4 @@
-select a from c;
+select 
+late_odrer
+from 
+order_talbe;
